@@ -1,1 +1,1 @@
-Krypt - Web 3.0 Blockchain Application
+Scrypto - Web 3.0 Blockchain Application
